@@ -1,2 +1,5 @@
-# text-to-speech
-microsoft text to speech
+# 文本转语音
+
+> 微软 Azure 将语音合成到音频文件
+
+## 
